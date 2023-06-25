@@ -130,7 +130,7 @@ levi_group.add(levi) #sprite added to group
 
 
 #image setup
-bgimg = pygame.image.load("Shingashinafinal.png").convert()
+bgimg = pygame.image.load("Stohessdistrict.png").convert()
 bgimg_width = bgimg.get_width() #finds width of the background image
 gr_img = pygame.image.load("roof.png")
 grimg_width = gr_img.get_width()
