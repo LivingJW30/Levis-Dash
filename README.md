@@ -1,3 +1,9 @@
 # Levis-Dash
-A 2D Pygame based off the manga series Attack on Titan.
-## Test num 1
+add a lengthy description
+test my skills/first proj etc.
+## Goal of game
+survive the longest in the 
+## How to run it
+show users how to run it and maybe add the exe.
+## Add Resources 
+anything I used to help me. ex. youtube, music, pixelart, docs
