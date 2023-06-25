@@ -147,9 +147,9 @@ bg_tiles = math.ceil(screen_h/bgimg_width) + 100
 gr_scroll = 0
 gr_tiles = math.ceil(screen_h/grimg_width) + 1
 
-#music played on repeat
-pygame.mixer.music.load("music.wav")
-pygame.mixer.music.play(-1)
+#optional music
+#pygame.mixer.music.load("music.wav")
+#pygame.mixer.music.play(-1)
 
 #restart button instance
 button = Reset(screen_w/3,screen_h/3,reset_button)
