@@ -11,7 +11,14 @@ This simple 2D game runs Python 3.10.9 using the PyGame library. I consider this
 If you would like to play this game without pulling this code follow the directions below:
 1. Download the zip in the repo called: LevisDash.zip
    P.S. This is NOT malware! I would normally tell you to never download random zips/executables but all code and images included in this zip file are included on this repo so please check them if you would like.
-2. 
+2. Find the zip in your file system right click on it and press extract all.
+3. A "Select a Destination and Extract Files" pop up should pull up. Confirm where you want to extract these files to on your system.
+   Then press extract.
+4. An "unzipped" file will show up now and your file system should pop up displaying a folder called "pygameexecute". Click on this folder.
+5. You will now see all the files the zip included. Click on the executable called "Main", it should have a yellow snake on it. 
+6. This should run the gam but let me know if you have any problems or questions!
+
+NOTE: if any windows protection notices pop up click the "more options" pull down and the "extract anyways". The only reason this is popping up is because the zip is too big to be scanned by Windows. Don't worry, there are no viruses! I'm not smart enough yet to build my own malware. 
 ## Resources 
 + Youtube tutorials: [Coding With Russ](https://www.youtube.com/@CodingWithRuss) is a great channel for Pygame!
 + [Pixelart](https://www.pixilart.com/): Used for all graphics in game
