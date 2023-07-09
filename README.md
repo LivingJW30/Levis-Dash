@@ -3,7 +3,7 @@ Swing above the streets of the Stohess District with Levi Ackerman as he faces d
 Put your skills to the test with your Omni-Directional Mobility gear and avoid being hit by the hail of incoming fire. 
 Can you survive this storm of steel?
 
-+ High score: 58 seconds
++ High score: 60 seconds
 
 ![Game Image](LeviDashimg.png)
 
